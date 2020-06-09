@@ -1,0 +1,1544 @@
+frame: 2
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 3
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 4
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 5
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 6
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 7
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 8
+beforeX: 0
+beforeY: 0
+currentX: 349
+currentY: 356
+unvaild
+
+
+frame: 9
+beforeX: 349
+beforeY: 356
+currentX: 365
+currentY: 351
+unvaild
+
+
+frame: 10
+beforeX: 365
+beforeY: 351
+currentX: 376
+currentY: 342
+unvaild
+
+
+frame: 11
+beforeX: 376
+beforeY: 342
+currentX: 377
+currentY: 323
+up
+
+
+frame: 12
+beforeX: 377
+beforeY: 323
+currentX: 374
+currentY: 293
+up
+
+
+frame: 13
+beforeX: 374
+beforeY: 293
+currentX: 364
+currentY: 274
+up
+
+
+frame: 14
+beforeX: 364
+beforeY: 274
+currentX: 357
+currentY: 263
+up
+
+
+frame: 15
+beforeX: 357
+beforeY: 263
+currentX: 355
+currentY: 258
+unvaild
+
+
+frame: 16
+beforeX: 355
+beforeY: 258
+currentX: 355
+currentY: 256
+unvaild
+
+
+frame: 17
+beforeX: 355
+beforeY: 256
+currentX: 356
+currentY: 258
+down
+
+
+frame: 18
+beforeX: 356
+beforeY: 258
+currentX: 357
+currentY: 258
+unvaild
+
+
+frame: 19
+beforeX: 357
+beforeY: 258
+currentX: 358
+currentY: 256
+unvaild
+
+
+frame: 20
+beforeX: 358
+beforeY: 256
+currentX: 358
+currentY: 255
+unvaild
+
+
+frame: 21
+beforeX: 358
+beforeY: 255
+currentX: 356
+currentY: 254
+unvaild
+
+
+frame: 22
+beforeX: 356
+beforeY: 254
+currentX: 355
+currentY: 249
+unvaild
+
+
+frame: 23
+beforeX: 355
+beforeY: 249
+currentX: 357
+currentY: 242
+up
+
+
+frame: 24
+beforeX: 357
+beforeY: 242
+currentX: 358
+currentY: 235
+up
+
+
+frame: 25
+beforeX: 358
+beforeY: 235
+currentX: 360
+currentY: 228
+up
+
+
+frame: 26
+beforeX: 360
+beforeY: 228
+currentX: 362
+currentY: 218
+unvaild
+
+
+frame: 27
+beforeX: 362
+beforeY: 218
+currentX: 363
+currentY: 206
+unvaild
+
+
+frame: 28
+beforeX: 363
+beforeY: 206
+currentX: 365
+currentY: 193
+unvaild
+
+
+frame: 29
+beforeX: 365
+beforeY: 193
+currentX: 369
+currentY: 180
+unvaild
+
+
+frame: 30
+beforeX: 369
+beforeY: 180
+currentX: 373
+currentY: 166
+unvaild
+
+
+frame: 31
+beforeX: 373
+beforeY: 166
+currentX: 378
+currentY: 152
+unvaild
+
+
+frame: 32
+beforeX: 378
+beforeY: 152
+currentX: 380
+currentY: 140
+unvaild
+
+
+frame: 33
+beforeX: 380
+beforeY: 140
+currentX: 381
+currentY: 129
+unvaild
+
+
+frame: 34
+beforeX: 381
+beforeY: 129
+currentX: 379
+currentY: 120
+up
+
+
+frame: 35
+beforeX: 379
+beforeY: 120
+currentX: 379
+currentY: 116
+up
+
+
+frame: 36
+beforeX: 379
+beforeY: 116
+currentX: 381
+currentY: 111
+unvaild
+
+
+frame: 37
+beforeX: 381
+beforeY: 111
+currentX: 384
+currentY: 120
+down
+
+
+frame: 38
+beforeX: 384
+beforeY: 120
+currentX: 388
+currentY: 127
+unvaild
+
+
+frame: 39
+beforeX: 388
+beforeY: 127
+currentX: 390
+currentY: 134
+unvaild
+
+
+frame: 40
+beforeX: 390
+beforeY: 134
+currentX: 395
+currentY: 140
+unvaild
+
+
+frame: 41
+beforeX: 395
+beforeY: 140
+currentX: 394
+currentY: 146
+down
+
+
+frame: 42
+beforeX: 394
+beforeY: 146
+currentX: 394
+currentY: 154
+down
+
+
+frame: 43
+beforeX: 394
+beforeY: 154
+currentX: 392
+currentY: 163
+down
+
+
+frame: 44
+beforeX: 392
+beforeY: 163
+currentX: 393
+currentY: 171
+down
+
+
+frame: 45
+beforeX: 393
+beforeY: 171
+currentX: 394
+currentY: 184
+down
+
+
+frame: 46
+beforeX: 394
+beforeY: 184
+currentX: 394
+currentY: 202
+down
+
+
+frame: 47
+beforeX: 394
+beforeY: 202
+currentX: 393
+currentY: 217
+unvaild
+
+
+frame: 48
+beforeX: 393
+beforeY: 217
+currentX: 395
+currentY: 230
+down
+
+
+frame: 49
+beforeX: 395
+beforeY: 230
+currentX: 396
+currentY: 250
+unvaild
+
+
+frame: 50
+beforeX: 396
+beforeY: 250
+currentX: 395
+currentY: 277
+unvaild
+
+
+frame: 51
+beforeX: 395
+beforeY: 277
+currentX: 394
+currentY: 305
+down
+
+
+frame: 52
+beforeX: 394
+beforeY: 305
+currentX: 394
+currentY: 332
+unvaild
+
+
+frame: 53
+beforeX: 394
+beforeY: 332
+currentX: 392
+currentY: 344
+down
+
+
+frame: 54
+beforeX: 392
+beforeY: 344
+currentX: 384
+currentY: 353
+down
+
+
+frame: 55
+beforeX: 384
+beforeY: 353
+currentX: 374
+currentY: 358
+down
+
+
+frame: 56
+beforeX: 374
+beforeY: 358
+currentX: 374
+currentY: 358
+unvaild
+
+
+frame: 57
+beforeX: 374
+beforeY: 358
+currentX: 374
+currentY: 358
+unvaild
+
+
+frame: 58
+beforeX: 374
+beforeY: 358
+currentX: 378
+currentY: 347
+unvaild
+
+
+frame: 59
+beforeX: 378
+beforeY: 347
+currentX: 385
+currentY: 315
+unvaild
+
+
+frame: 60
+beforeX: 385
+beforeY: 315
+currentX: 385
+currentY: 270
+up
+
+
+frame: 61
+beforeX: 385
+beforeY: 270
+currentX: 385
+currentY: 232
+unvaild
+
+
+frame: 62
+beforeX: 385
+beforeY: 232
+currentX: 384
+currentY: 201
+up
+
+
+frame: 63
+beforeX: 384
+beforeY: 201
+currentX: 384
+currentY: 177
+up
+
+
+frame: 64
+beforeX: 384
+beforeY: 177
+currentX: 384
+currentY: 156
+unvaild
+
+
+frame: 65
+beforeX: 384
+beforeY: 156
+currentX: 386
+currentY: 134
+unvaild
+
+
+frame: 66
+beforeX: 386
+beforeY: 134
+currentX: 386
+currentY: 115
+up
+
+
+frame: 67
+beforeX: 386
+beforeY: 115
+currentX: 387
+currentY: 105
+up
+
+
+frame: 68
+beforeX: 387
+beforeY: 105
+currentX: 387
+currentY: 101
+up
+
+
+frame: 69
+beforeX: 387
+beforeY: 101
+currentX: 388
+currentY: 109
+down
+
+
+frame: 70
+beforeX: 388
+beforeY: 109
+currentX: 392
+currentY: 128
+unvaild
+
+
+frame: 71
+beforeX: 392
+beforeY: 128
+currentX: 393
+currentY: 151
+down
+
+
+frame: 72
+beforeX: 393
+beforeY: 151
+currentX: 401
+currentY: 171
+unvaild
+
+
+frame: 73
+beforeX: 401
+beforeY: 171
+currentX: 404
+currentY: 196
+down
+
+
+frame: 74
+beforeX: 404
+beforeY: 196
+currentX: 407
+currentY: 227
+unvaild
+
+
+frame: 75
+beforeX: 407
+beforeY: 227
+currentX: 404
+currentY: 261
+down
+
+
+frame: 2
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 3
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 4
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 5
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 6
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 7
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 8
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 9
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 10
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 11
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 12
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 13
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 14
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 15
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 16
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 17
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 18
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 19
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 20
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 21
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 22
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 23
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 24
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 25
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 26
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 27
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 28
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 29
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 30
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 31
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 32
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 33
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 34
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 35
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 36
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 37
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 38
+beforeX: 0
+beforeY: 0
+currentX: 0
+currentY: 0
+unvaild
+
+
+frame: 39
+beforeX: 0
+beforeY: 0
+currentX: 436
+currentY: 355
+unvaild
+
+
+frame: 40
+beforeX: 436
+beforeY: 355
+currentX: 433
+currentY: 332
+up
+
+
+frame: 41
+beforeX: 433
+beforeY: 332
+currentX: 433
+currentY: 287
+up
+
+
+frame: 42
+beforeX: 433
+beforeY: 287
+currentX: 434
+currentY: 263
+up
+
+
+frame: 43
+beforeX: 434
+beforeY: 263
+currentX: 436
+currentY: 257
+up
+
+
+frame: 44
+beforeX: 436
+beforeY: 257
+currentX: 437
+currentY: 258
+unvaild
+
+
+frame: 45
+beforeX: 437
+beforeY: 258
+currentX: 438
+currentY: 259
+unvaild
+
+
+frame: 46
+beforeX: 438
+beforeY: 259
+currentX: 443
+currentY: 258
+unvaild
+
+
+frame: 47
+beforeX: 443
+beforeY: 258
+currentX: 446
+currentY: 256
+unvaild
+
+
+frame: 48
+beforeX: 446
+beforeY: 256
+currentX: 446
+currentY: 252
+up
+
+
+frame: 49
+beforeX: 446
+beforeY: 252
+currentX: 446
+currentY: 245
+up
+
+
+frame: 50
+beforeX: 446
+beforeY: 245
+currentX: 445
+currentY: 236
+up
+
+
+frame: 51
+beforeX: 445
+beforeY: 236
+currentX: 444
+currentY: 228
+up
+
+
+frame: 52
+beforeX: 444
+beforeY: 228
+currentX: 442
+currentY: 223
+up
+
+
+frame: 53
+beforeX: 442
+beforeY: 223
+currentX: 443
+currentY: 216
+up
+
+
+frame: 54
+beforeX: 443
+beforeY: 216
+currentX: 444
+currentY: 206
+up
+
+
+frame: 55
+beforeX: 444
+beforeY: 206
+currentX: 443
+currentY: 197
+up
+
+
+frame: 56
+beforeX: 443
+beforeY: 197
+currentX: 440
+currentY: 188
+up
+
+
+frame: 57
+beforeX: 440
+beforeY: 188
+currentX: 439
+currentY: 179
+up
+
+
+frame: 58
+beforeX: 439
+beforeY: 179
+currentX: 439
+currentY: 171
+up
+
+
+frame: 59
+beforeX: 439
+beforeY: 171
+currentX: 440
+currentY: 164
+up
+
+
+frame: 60
+beforeX: 440
+beforeY: 164
+currentX: 439
+currentY: 155
+up
+
+
+frame: 61
+beforeX: 439
+beforeY: 155
+currentX: 440
+currentY: 143
+up
+
+
+frame: 62
+beforeX: 440
+beforeY: 143
+currentX: 440
+currentY: 134
+up
+
+
+frame: 63
+beforeX: 440
+beforeY: 134
+currentX: 439
+currentY: 125
+up
+
+
+frame: 64
+beforeX: 439
+beforeY: 125
+currentX: 439
+currentY: 119
+up
+
+
+frame: 65
+beforeX: 439
+beforeY: 119
+currentX: 441
+currentY: 114
+up
+
+
+frame: 66
+beforeX: 441
+beforeY: 114
+currentX: 440
+currentY: 111
+up
+
+
+frame: 67
+beforeX: 440
+beforeY: 111
+currentX: 436
+currentY: 113
+down
+
+
+frame: 68
+beforeX: 436
+beforeY: 113
+currentX: 443
+currentY: 119
+unvaild
+
+
+frame: 69
+beforeX: 443
+beforeY: 119
+currentX: 442
+currentY: 133
+down
+
+
+frame: 70
+beforeX: 442
+beforeY: 133
+currentX: 445
+currentY: 144
+down
+
+
+frame: 71
+beforeX: 445
+beforeY: 144
+currentX: 447
+currentY: 152
+down
+
+
+frame: 72
+beforeX: 447
+beforeY: 152
+currentX: 450
+currentY: 159
+down
+
+
+frame: 73
+beforeX: 450
+beforeY: 159
+currentX: 444
+currentY: 167
+down
+
+
+frame: 74
+beforeX: 444
+beforeY: 167
+currentX: 441
+currentY: 174
+down
+
+
+frame: 75
+beforeX: 441
+beforeY: 174
+currentX: 438
+currentY: 182
+down
+
+
+frame: 76
+beforeX: 438
+beforeY: 182
+currentX: 435
+currentY: 191
+down
+
+
+frame: 77
+beforeX: 435
+beforeY: 191
+currentX: 434
+currentY: 199
+down
+
+
+frame: 78
+beforeX: 434
+beforeY: 199
+currentX: 434
+currentY: 207
+down
+
+
+frame: 79
+beforeX: 434
+beforeY: 207
+currentX: 435
+currentY: 216
+down
+
+
+frame: 80
+beforeX: 435
+beforeY: 216
+currentX: 436
+currentY: 225
+down
+
+
+frame: 81
+beforeX: 436
+beforeY: 225
+currentX: 437
+currentY: 233
+down
+
+
+frame: 82
+beforeX: 437
+beforeY: 233
+currentX: 438
+currentY: 243
+down
+
+
+frame: 83
+beforeX: 438
+beforeY: 243
+currentX: 439
+currentY: 254
+down
+
+
+frame: 84
+beforeX: 439
+beforeY: 254
+currentX: 441
+currentY: 262
+down
+
+
+frame: 85
+beforeX: 441
+beforeY: 262
+currentX: 442
+currentY: 268
+down
+
+
+frame: 86
+beforeX: 442
+beforeY: 268
+currentX: 443
+currentY: 272
+down
+
+
+frame: 87
+beforeX: 443
+beforeY: 272
+currentX: 446
+currentY: 270
+unvaild
+
+
+frame: 88
+beforeX: 446
+beforeY: 270
+currentX: 446
+currentY: 263
+up
+
+
+frame: 89
+beforeX: 446
+beforeY: 263
+currentX: 443
+currentY: 251
+up
+
+
+frame: 90
+beforeX: 443
+beforeY: 251
+currentX: 442
+currentY: 237
+up
+
+
+frame: 91
+beforeX: 442
+beforeY: 237
+currentX: 442
+currentY: 223
+up
+
+
+frame: 92
+beforeX: 442
+beforeY: 223
+currentX: 441
+currentY: 212
+up
+
+
+frame: 93
+beforeX: 441
+beforeY: 212
+currentX: 440
+currentY: 202
+up
+
+
+frame: 94
+beforeX: 440
+beforeY: 202
+currentX: 439
+currentY: 191
+up
+
+
+frame: 95
+beforeX: 439
+beforeY: 191
+currentX: 438
+currentY: 181
+up
+
+
+frame: 96
+beforeX: 438
+beforeY: 181
+currentX: 438
+currentY: 170
+up
+
+
+frame: 97
+beforeX: 438
+beforeY: 170
+currentX: 436
+currentY: 162
+up
+
+
+frame: 98
+beforeX: 436
+beforeY: 162
+currentX: 433
+currentY: 154
+up
+
+
+frame: 99
+beforeX: 433
+beforeY: 154
+currentX: 433
+currentY: 146
+up
+
+
+frame: 100
+beforeX: 433
+beforeY: 146
+currentX: 434
+currentY: 136
+up
+
+
+frame: 101
+beforeX: 434
+beforeY: 136
+currentX: 434
+currentY: 126
+up
+
+
+frame: 102
+beforeX: 434
+beforeY: 126
+currentX: 433
+currentY: 117
+up
+
+
+frame: 103
+beforeX: 433
+beforeY: 117
+currentX: 431
+currentY: 107
+up
+
+
+frame: 104
+beforeX: 431
+beforeY: 107
+currentX: 428
+currentY: 100
+up
+
+
+frame: 105
+beforeX: 428
+beforeY: 100
+currentX: 427
+currentY: 98
+unvaild
+
+
+frame: 106
+beforeX: 427
+beforeY: 98
+currentX: 427
+currentY: 102
+down
+
+
+frame: 107
+beforeX: 427
+beforeY: 102
+currentX: 428
+currentY: 111
+down
+
+
+frame: 108
+beforeX: 428
+beforeY: 111
+currentX: 431
+currentY: 122
+down
+
+
+frame: 109
+beforeX: 431
+beforeY: 122
+currentX: 434
+currentY: 134
+down
+
+
+frame: 110
+beforeX: 434
+beforeY: 134
+currentX: 436
+currentY: 144
+down
+
+
+frame: 111
+beforeX: 436
+beforeY: 144
+currentX: 438
+currentY: 156
+down
+
+
+frame: 112
+beforeX: 438
+beforeY: 156
+currentX: 439
+currentY: 169
+down
+
+
+frame: 113
+beforeX: 439
+beforeY: 169
+currentX: 441
+currentY: 184
+down
+
+
+frame: 114
+beforeX: 441
+beforeY: 184
+currentX: 444
+currentY: 204
+down
+
+
+frame: 115
+beforeX: 444
+beforeY: 204
+currentX: 447
+currentY: 228
+down
+
+
+frame: 116
+beforeX: 447
+beforeY: 228
+currentX: 451
+currentY: 255
+down
+
+
+frame: 117
+beforeX: 451
+beforeY: 255
+currentX: 456
+currentY: 275
+down
+
+
+frame: 118
+beforeX: 456
+beforeY: 275
+currentX: 459
+currentY: 288
+down
+
+
+frame: 119
+beforeX: 459
+beforeY: 288
+currentX: 458
+currentY: 302
+down
+
+
+frame: 120
+beforeX: 458
+beforeY: 302
+currentX: 455
+currentY: 334
+down
+
+
